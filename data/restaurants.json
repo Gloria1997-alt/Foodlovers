@@ -1,0 +1,28 @@
+[
+  {
+    "id": "r1",
+    "name":"Bar 205",
+    "address":"mobil-nsawam",
+    "cuisine":"Ghanaian",
+    "website":"https://.com",
+    "description":"It's awesome!"
+    },
+    
+    {
+      "id": "r2",
+      "name":"Eddys Pizaa",
+      "address":"Kaneshe street",
+      "cuisine":"Ghanaian",
+      "website":"https://eddyspizza.com",
+      "description":"It's also amazing!"
+      },
+      
+      {
+        "id": "r3",
+        "name":"Joy Pizza",
+        "address":"satellite-kuntunse 5,street",
+        "cuisine":"Ghanaian",
+        "website":"http:/joypizza.com",
+        "description":"Simply Delicious"
+        }
+      ]
